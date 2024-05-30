@@ -48,7 +48,6 @@
     "eip2930Transition": "0x96",
     "maxCodeSize": 124576,
     "maxCodeSizeTransition": "0x28d138",
-    "eip1559Transition": "0x3E8",
     "eip1559BaseFeeMaxChangeDenominator": "0x3EA",
     "eip1559ElasticityMultiplier": "0x3EB",
     "eip1559BaseFeeInitialValue": "0x1DCD6500"
