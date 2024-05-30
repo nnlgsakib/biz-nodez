@@ -1,0 +1,1 @@
+cd biz-contracts && npx hardhat run ./scripts/2_deploy_contract.js --network devnet
